@@ -1,0 +1,30 @@
+
+> portfolio-datascience@0.1.0 dev
+> next dev --port 3000
+
+   ▲ Next.js 15.5.22
+   - Local:        http://localhost:3000
+   - Network:      http://10.0.0.31:3000
+
+ ✓ Starting...
+ ✓ Ready in 6.4s
+ ○ Compiling / ...
+ ✓ Compiled / in 35.4s (2627 modules)
+ GET / 200 in 38523ms
+ GET / 200 in 812ms
+ GET / 200 in 780ms
+ ✓ Compiled in 717ms (2600 modules)
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 6.8s (2947 modules)
+ GET / 500 in 8922ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 2.4s (2938 modules)
+ GET / 500 in 16079ms
+ GET / 500 in 159ms
+ GET / 500 in 741ms
+ GET / 500 in 194ms
+ GET / 500 in 102ms
+ ✓ Compiled in 293ms (1410 modules)
+ GET / 500 in 63ms
+ GET / 500 in 57ms
+[?25h
