@@ -24,11 +24,11 @@ const jetBrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL("https://darielpena.ai"),
   title: {
-    default: "Dariel Pena | AI Data Systems",
-    template: "%s | Dariel Pena"
+    default: "Dariel Peña | AI Data Systems",
+    template: "%s | Dariel Peña"
   },
   description:
-    "Premium AI, data science, machine learning and business intelligence product experience by Dariel Pena.",
+    "Premium AI, data science, machine learning and business intelligence product experience by Dariel Peña.",
   keywords: [
     "Data Scientist",
     "AI Engineer",
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     "Portfolio"
   ],
   openGraph: {
-    title: "Dariel Pena | AI Data Systems",
+    title: "Dariel Peña | Data Science",
     description:
       "A premium AI laboratory showcasing data science, ML, analytics and executive BI systems.",
     type: "website",
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Dariel Pena | AI Data Systems",
+    title: "Dariel Peña | Data Science",
     description:
       "Data science, AI engineering and business intelligence presented as a premium software product."
   }
