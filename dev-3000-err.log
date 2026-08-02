@@ -1,0 +1,236 @@
+ ⨯ TypeError: Cannot read properties of undefined (reading 'call')
+    at __webpack_exec__ (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\page.js:334:39)
+    at <unknown> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\page.js:335:691)
+    at <unknown> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\page.js:335:47)
+    at Object.<anonymous> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\page.js:338:3) {
+  page: '/'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\darie\\Downloads\\PORTAFOLIO_DATASCIENCE\\.next\\routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\darie\\Downloads\\PORTAFOLIO_DATASCIENCE\\.next\\routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\darie\\Downloads\\PORTAFOLIO_DATASCIENCE\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\darie\\Downloads\\PORTAFOLIO_DATASCIENCE\\.next\\routes-manifest.json'
+}
+ ⨯ [Error: ENOENT: no such file or directory, open 'C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\pages\_document.js'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\darie\\Downloads\\PORTAFOLIO_DATASCIENCE\\.next\\server\\pages\\_document.js'
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\darie\\Downloads\\PORTAFOLIO_DATASCIENCE\\.next\\routes-manifest.json'
+}
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⨯ Error: Cannot find module './592.js'
+Require stack:
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\webpack-runtime.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\_not-found\page.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\require.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\load-components.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\utils.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\options.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\index.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\next.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\page.js:255:76574)
+    at Object.<anonymous> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\page.js:255:76619) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './611.js'
+Require stack:
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\webpack-runtime.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\_not-found\page.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\require.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\load-components.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\utils.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\options.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\index.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\next.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\pages\_document.js:1:321)
+    at Object.<anonymous> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\pages\_document.js:1:366) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+Error: Cannot find module './592.js'
+Require stack:
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\webpack-runtime.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\_not-found\page.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\require.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\load-components.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\utils.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\options.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\index.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\next.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\page.js:255:76574)
+    at Object.<anonymous> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\page.js:255:76619) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './611.js'
+Require stack:
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\webpack-runtime.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\_not-found\page.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\require.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\load-components.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\utils.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\options.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\index.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\next.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\pages\_document.js:1:321)
+    at Object.<anonymous> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\pages\_document.js:1:366) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+[Error: ENOENT: no such file or directory, open 'C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\routes-manifest.json'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'C:\\Users\\darie\\Downloads\\PORTAFOLIO_DATASCIENCE\\.next\\routes-manifest.json'
+}
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⨯ Error: Cannot find module './592.js'
+Require stack:
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\webpack-runtime.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\_not-found\page.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\require.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\load-components.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\utils.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\options.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\index.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\next.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\page.js:255:76574)
+    at Object.<anonymous> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\page.js:255:76619) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './611.js'
+Require stack:
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\webpack-runtime.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\_not-found\page.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\require.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\load-components.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\utils.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\options.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\index.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\next.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\pages\_document.js:1:321)
+    at Object.<anonymous> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\pages\_document.js:1:366) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ Error: Cannot find module './592.js'
+Require stack:
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\webpack-runtime.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\_not-found\page.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\require.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\load-components.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\utils.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\options.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\index.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\next.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\page.js:255:76574)
+    at Object.<anonymous> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\page.js:255:76619) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './611.js'
+Require stack:
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\webpack-runtime.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\_not-found\page.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\require.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\load-components.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\utils.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\options.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\index.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\next.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\pages\_document.js:1:321)
+    at Object.<anonymous> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\pages\_document.js:1:366) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ Error: Cannot find module './592.js'
+Require stack:
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\webpack-runtime.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\_not-found\page.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\require.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\load-components.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\utils.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\options.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\index.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\next.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\page.js:255:76574)
+    at Object.<anonymous> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\page.js:255:76619) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './611.js'
+Require stack:
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\webpack-runtime.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\app\_not-found\page.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\require.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\load-components.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\utils.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\options.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\swc\index.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\config.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\next.js
+- C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\node_modules\next\dist\server\lib\start-server.js
+    at <unknown> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\pages\_document.js:1:321)
+    at Object.<anonymous> (C:\Users\darie\Downloads\PORTAFOLIO_DATASCIENCE\.next\server\pages\_document.js:1:366) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
