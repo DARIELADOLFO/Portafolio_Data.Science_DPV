@@ -2,6 +2,9 @@
 
 Portafolio personal de Dariel Adolfo Peña Vásquez, Ingeniero en Sistemas con experiencia en Business Intelligence, Power BI y Python, y actualmente en especialización en Ciencia de Datos mediante proyectos reales, práctica continua y certificaciones.
 
+<img width="1418" height="900" alt="image" src="https://github.com/user-attachments/assets/acc1be40-e924-4e1e-9be7-62f40e4a56dc" />
+
+
 ## Sobre este proyecto
 
 Este portafolio fue diseñado para mostrar mi evolución profesional de forma honesta y clara.
